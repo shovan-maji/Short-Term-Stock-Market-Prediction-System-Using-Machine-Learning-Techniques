@@ -34,10 +34,10 @@ We discovered that no single model works best for all time horizons. Therefore, 
 - **Connectivity:** Flask, Fetch API 🔧
 - **Data Source:** Yahoo Finance 📉
 - **Version Control System:** Git 🛡️
-
+<!--
 ## 📷 Demo
 Here's a brief demonstration of the Short Term Stock Market Prediction System in action:
-<!--
+
 <img align="center" src="./Images/Demo Video.gif" alt="GIF Title" width="1000" height="500">
 -->
 ## 🔄 Data Flow and Methodology
@@ -55,11 +55,11 @@ Our data flow involves several key steps:
 <div>
    <h2 align="center"><img src="./Images/Our Proposed Model.png" alt="Screenshot" width="500" height="350"</h2>
 </div>
--->
+
 ## 🌟 Visualizations and Insights
 
 Visualizations play a crucial role in our project, helping users understand the prediction accuracy and the performance of various models. 📈 These insights allow users to make better investment decisions.
-<!--
+
 <div>
    <h2 align="center"><img src="./Images/Graph.png" alt="Screenshot" width="500" height="350"</h2>
    <h2 align="center"><img src="./Images/Table.png" alt="Screenshot" width="500" height="350"</h2>
